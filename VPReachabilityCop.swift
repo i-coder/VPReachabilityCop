@@ -1,6 +1,6 @@
 //
 //  VPReachabilityCop.swift
-//  https://www.linkedin.com/profile/view?id=AAIAABVhA68BB-a7W90VkZvv4fFc2sINcamGYzw&trk=nav_responsive_tab_profile
+//  VPReachabilityCop
 //
 //  Created by Vlad Petruk on 1/3/16.
 //  Copyright © 2016 Vlad Petruk. All rights reserved.
